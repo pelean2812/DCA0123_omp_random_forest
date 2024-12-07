@@ -3,7 +3,6 @@
 #include "Vetor.h"
 #include "RandomForest.h"
 
-
 int main() {
     //nome do arquivo dos dados
     char s[50] = "data/breast-cancer-wisconsin.data";
